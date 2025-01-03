@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Example1">
+  <Items>
+    <LogicalFolder Name="連線" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="IMCSD-13:VIEW\C50115">
+          <Created>2024-11-06T13:39:04.1538498+08:00</Created>
+          <Type>SQL</Type>
+          <Server>IMCSD-13</Server>
+          <UserName />
+          <Authentication>Windows 驗證</Authentication>
+          <InitialDB>北風</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - 查詢</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="查詢" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01Select.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01Select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02Select2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02Select2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03Select3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03Select3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04Select4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04Select4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05Select5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05Select5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06Select6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06Select6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07Select7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07Select7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08Select_inner_join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08Select_inner_join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09Select_inner_join2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09Select_inner_join2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10Select_inner_join3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10Select_inner_join3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11Select_outer_join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11Select_outer_join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12DataType.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12DataType.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13Select_SubQuery.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13Select_SubQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14Select_order_by.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14Select_order_by.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15Practice.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15Practice.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16Insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16Insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17Update.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17Update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18Delete.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18Delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19Create_Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19Create_Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20Create_Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20Create_Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21Alter_table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>21Alter_table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22Drop_table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22Drop_table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23Go.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23Go.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24T-SQL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>24T-SQL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25T-SQL2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25T-SQL2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26T-SQL3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>26T-SQL3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27T-SQL4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>27T-SQL4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>28Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>29Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30Function.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>30Function.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31StoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>31StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>32CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33StoredProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>33StoredProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33View.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:IMCSD-13:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>IMCSD-13</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>33View.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="其他" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
